@@ -51,7 +51,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building inno
 
 <div align="center">
   
-  ![Harish's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawarharish899&show_icons=true&theme=radical)
+  ![Harish's GitHub stats]([https://github-readme-stats.vercel.app/api?username=pawarharish899&show_icons=true&theme=radical](https://github.com/pawarharish04/pawarharish04/tree/main))
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pawarharish899&layout=compact&theme=radical)
   
