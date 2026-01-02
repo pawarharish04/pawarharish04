@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building inno
 ## 🚀 About Me
 
 - 🔭 I'm currently working on **personal projects** and mastering **Data Structures & Algorithms**
-- 🌱 I'm currently learning **Advanced C++** and exploring modern development practices
+- 🌱 I'm currently learning **C++ and Java** and exploring modern development practices
 - 💡 I enjoy turning creative ideas into real, working applications
 - 🎯 Always excited to collaborate on interesting projects and learn from the community
 
