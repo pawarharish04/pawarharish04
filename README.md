@@ -1,75 +1,99 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=Harish%20Pawar&fontSize=75&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%E2%80%94%20Building%20at%20Scale&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=200&section=header&text=Harish%20Pawar&fontSize=70&fontColor=ffffff&fontAlignY=45&desc=Engineering%20Simplicity%20at%20Scale&descAlignY=65&descSize=20&animation=fadeIn" width="100%"/>
+<div align="center">
 
-**Systems Architect** • **Full Stack Engineer** • **Design Thinker**
-
-[LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio](https://your-portfolio.com) | [Email](mailto:your-email@example.com)
+### ◈ FULL STACK ENGINEER ◈ SYSTEM DESIGN ENTHUSIAST ◈ DSA BUILDER ◈
 
 </div>
 
 ---
 
-###  The Philosophy
-> "Design is not just what it looks like and feels like. Design is how it works."
+### 🟢 [root@harish-pawar ~]$ whoami
 
-I build software with a focus on **privacy, performance, and predictability.** My approach to engineering is rooted in the belief that complex backend systems should power seamless, effortless user experiences. I don't just write code; I design ecosystems.
-
----
-
-### 🛠 Tech Stack & Craftsmanship
-
-| Layer | The Arsenal |
+| Attribute | Specification |
 | :--- | :--- |
-| **Languages** | C++, JavaScript (ES6+), TypeScript, HTML5, CSS3 |
-| **Frameworks** | React, Next.js, Node.js, Express, TailwindCSS |
-| **Data & Logic** | PostgreSQL, MongoDB, Prisma ORM, RESTful API Design |
-| **Tools** | Git, Docker, JWT, Bcrypt, Linux |
+| **Name** | Harish Pawar |
+| **Role** | Full Stack Engineer |
+| **Focus** | Scalable & Secure Web Architecture |
+| **Status** | Open to Impactful Opportunities ✦ |
 
-<div align="center"> 
-  <img src="https://skillicons.dev/icons?i=cpp,js,nextjs,react,tailwind,nodejs,express,postgres,mongodb,prisma,git,github&theme=dark" /> 
+> **Core Areas of Expertise:**
+> * Authentication & Authorization Systems (JWT/RBAC)
+> * Real-Time Backend Architecture & Event Driven Logic
+> * Privacy & Trust-Based System Design
+> * DSA-driven problem solving & Optimization
+
+---
+
+### ⬡ Tech Arsenal
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,tailwind,nextjs,nodejs,express,postgresql,mongodb,mysql,prisma,git,github,docker,linux&theme=dark" />
 </div>
 
 ---
 
-### 🏗 Featured Engineering
+### ◎ Featured Engineering Projects
 
-#### **01. E-FIR Portal** | *Law Enforcement Reimagined*
-A production-grade platform designed to bridge the gap between citizens and justice through secure, stateless architecture.
-* **Security First:** Implemented **JWT-based authentication** and **Bcrypt hashing** to ensure data integrity.
-* **Precision UI:** Built a high-density analytics dashboard using **TailwindCSS** for real-time metric visualization.
-* **Scalability:** Engineered a normalized **PostgreSQL** schema to handle relational complexity with $O(1)$ lookup efficiency for critical records.
+#### 🚓 **E-FIR Portal** | *Production-Grade Law Enforcement Platform*
+> Secure, stateless infrastructure designed for high-integrity public service.
 
-#### **02. Emergency Triage System** | *Algorithmic Life-Saving*
-A high-stakes patient queue system where milliseconds and logic matter.
-* **DSA in Production:** Developed a custom **Min-Heap/Max-Heap priority queue** to automate patient triage based on medical urgency.
-* **Real-time Synchronization:** Utilized optimized state management to ensure doctors and receptionists remain in a "single source of truth" environment.
-
-#### **03. Tribe** | *Privacy-Centric Discovery*
-A social platform built on the principle that "Privacy is a fundamental human right."
-* **Geospatial Logic:** Engineered distance-based filtering that respects user-defined privacy boundaries.
-* **Modern Stack:** Leveraged **Next.js** and **Prisma** for a type-safe, lightning-fast discovery experience.
+**Architecture Highlights:**
+* **Stateless Security:** JWT-based authentication with role-based access control (RBAC).
+* **Data Integrity:** Secure password hashing (bcrypt) and deep PostgreSQL normalization.
+* **Performance:** Full backend API integration with an analytics dashboard for live metrics.
+* **Stack:** `React` • `Node.js` • `Express` • `PostgreSQL` • `JWT` • `TailwindCSS`
 
 ---
 
-### 📈 Impact & Momentum
+#### 🏥 **Real-Time Emergency Triage** | *Priority-Driven Patient Queue*
+> Where data structures meet real-world impact.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pawarharish04&show_icons=true&theme=transparent&hide_border=true&title_color=007AFF&text_color=ffffff&icon_color=007AFF" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawarharish04&layout=compact&theme=transparent&hide_border=true&title_color=007AFF&text_color=ffffff" height="165"/>
-</div>
+**Architecture Highlights:**
+* **Custom DSA Implementation:** Built a Heap-based priority queue for automated triage.
+* **Real-Time Sync:** Dashboard updates dynamically based on emergency severity levels.
+* **Edge Case Handling:** Engineered queue-safe logic for simultaneous doctor/receptionist updates.
+* **Stack:** `React` • `Express` • `Custom DSA Logic` • `PostgreSQL`
 
+---
+
+#### 🌍 **Tribe** | *Privacy-First Social Discovery Platform*
+> Location-aware trust-based discovery with user-controlled visibility.
+
+**Architecture Highlights:**
+* **Geospatial Logic:** Distance-based user filtering with strict privacy toggles.
+* **Modern Data Layer:** Prisma ORM for scalable data modeling and settings management.
+* **Security:** Production-safe password hashing and secure JWT session handling.
+* **Stack:** `Next.js` • `Node.js` • `Prisma` • `PostgreSQL` • `JWT`
+
+---
+
+### ◈ Engineering Philosophy
+* **Scale:** Build for the next 100k users, not just the first 10.
+* **Security:** Privacy is not a feature; it is the foundation.
+* **Clarity:** Write logic clean enough to be extended tomorrow.
+* **Systems Thinking:** Solve the root problem, not just the UI symptom.
+
+---
+
+### ◉ GitHub Metrics
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pawarharish04&theme=dark&hide_border=true&fire=007AFF&ring=007AFF" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pawarharish04&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawarharish04&layout=compact&theme=github_dark&hide_border=true" height="180"/>
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pawarharish04&theme=github-dark-blue&hide_border=true" width="100%"/>
 </div>
 
 ---
 
-### 🏔 Currently Exploring
-* **Distributed Systems:** Studying Kafka for event-driven resilience.
-* **Advanced System Design:** Optimizing for the next billion users.
-* **Refinement:** Constantly polishing the "invisible" details of backend performance.
+### 🏔 Currently Leveling Up
+* **Advanced System Design:** Distributed Architectures & Microservices.
+* **Message Brokers:** Kafka-based event systems for high-throughput data.
+* **Performance:** Low-level optimization and advanced DSA patterns.
+
+---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=60&section=footer&text=Stay%20Hungry.%20Stay%20Foolish.&fontSize=18&fontColor=888888&fontAlignY=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=120&section=footer&text=Consistency.%20Discipline.%20Growth.&fontSize=22&fontColor=58A6FF&fontAlignY=65&animation=fadeIn" width="100%"/>
 </div>
