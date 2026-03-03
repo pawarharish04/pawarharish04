@@ -7,7 +7,7 @@
 <div align="center">
 
 ```
-◈  FULL STACK DEVELOPER  ◈  DSA ENTHUSIAST  ◈  SYSTEMS ARCHITECT  ◈
+◈  FULL STACK DEVELOPER  ◈  DSA ENTHUSIAST  ◈  
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+scalable+systems+from+scratch.;JWT+Auth+%7C+RBAC+%7C+Real-Time+Architecture.;C%2B%2B+%7C+JavaScript+%7C+PostgreSQL+%7C+React.;MongoDB+%7C+Node.js+%7C+Express+%7C+TailwindCSS.;Consistency.+Discipline.+Growth.)](https://git.io/typing-svg)
@@ -27,7 +27,6 @@ focus     : Scalable Web Applications
 strengths :
   - JWT Authentication & RBAC Systems
   - Real-Time Backend Architecture
-  - Data Structures & Algorithms (C++)
   - Production-Level Full Stack Builds
 status    : Open to opportunities ✦
 ```
