@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5f5f7,100:e8e8ed&height=200&section=header&text=Harish%20Pawar&fontSize=72&fontColor=1d1d1f&fontAlignY=42&desc=Full%20Stack%20Engineer%20%E2%80%94%20Building%20What%20Matters&descAlignY=62&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5f5f7,100:e8e8ed&height=190&section=header&text=Harish%20Pawar&fontSize=68&fontColor=1d1d1f&fontAlignY=42&desc=Full%20Stack%20Engineer%20%E2%80%94%20Building%20What%20Matters&descAlignY=63&descSize=16&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=400&size=16&duration=2800&pause=700&color=0071E3&center=true&vCenter=true&width=620&lines=JWT+Auth+%7C+RBAC+%7C+Real-Time+Architecture;C%2B%2B+%7C+JavaScript+%7C+PostgreSQL+%7C+React;MongoDB+%7C+Node.js+%7C+Express+%7C+TailwindCSS;Consistency.+Discipline.+Growth.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=400&size=15&duration=2800&pause=700&color=0071E3&center=true&vCenter=true&width=640&lines=JWT+Auth+%7C+RBAC+%7C+Real-Time+Architecture;C%2B%2B+%7C+JavaScript+%7C+PostgreSQL+%7C+React;MongoDB+%7C+Node.js+%7C+Prisma+%7C+WebSockets;Consistency.+Discipline.+Growth.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -61,21 +61,44 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🚓 E-FIR Portal
-> *Production-grade citizen-facing law enforcement platform with real analytics and role management.*
+### 🎨 Creative Compatibility Platform
+> *Full-stack creator matchmaking platform with a custom compatibility engine and real-time chat.*
 
-- JWT-based stateless authentication
-- Role-Based Access — Citizen / Admin
-- PostgreSQL relational data modeling
-- Analytics dashboard with live metrics
-- Fully responsive Tailwind CSS UI
+- Compatibility engine — interest + content + interaction signals
+- Real-time chat via WebSockets
+- Discovery feed with "Creators Similar to You"
+- Prisma ORM + PostgreSQL relational backend
+- Next.js App Router with server/client split
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
 </td>
+<td width="50%" valign="top">
+
+### 🚓 E-FIR Portal
+> *Production-grade citizen-facing law enforcement platform with real analytics and role management.*
+
+- JWT-based stateless authentication + bcrypt
+- Role-Based Access — Citizen / Officer / Admin
+- Anonymous FIR filing with tracking IDs
+- Crime heatmaps via Leaflet + analytics via Chart.js
+- Real-time officer alerts with Socket.io
+
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🏥 ER Triage System
@@ -92,6 +115,8 @@
 ![DSA](https://img.shields.io/badge/Custom%20DSA-Heap%20Logic-0071e3?style=flat-square)
 
 </td>
+<td width="50%" valign="top">
+</td>
 </tr>
 </table>
 
@@ -101,13 +126,43 @@
 
 <div align="center">
 
-| Languages | Frontend | Backend |
-|:---------:|:--------:|:-------:|
-| ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white) |
+**Languages**
 
-| Databases | Auth | Tools |
-|:---------:|:----:|:-----:|
-| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Bcrypt](https://img.shields.io/badge/Bcrypt-%23430098.svg?style=for-the-badge&logoColor=white) | ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend & Runtime**
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+**Databases & ORM**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+**Auth & Security**
+
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Bcrypt](https://img.shields.io/badge/Bcrypt-%23430098.svg?style=for-the-badge&logoColor=white)
+
+**Tools & Workflow**
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
