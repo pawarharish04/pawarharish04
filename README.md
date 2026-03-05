@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5f5f7,100:e8e8ed&height=190&section=header&text=Harish%20Pawar&fontSize=68&fontColor=1d1d1f&fontAlignY=42&desc=Full%20Stack%20Engineer%20%E2%80%94%20Building%20What%20Matters&descAlignY=63&descSize=16&animation=fadeIn" width="100%"/>
 
-</div>
-
-<div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=400&size=15&duration=2800&pause=700&color=0071E3&center=true&vCenter=true&width=640&lines=JWT+Auth+%7C+RBAC+%7C+Real-Time+Architecture;C%2B%2B+%7C+JavaScript+%7C+PostgreSQL+%7C+React;MongoDB+%7C+Node.js+%7C+Prisma+%7C+WebSockets;Consistency.+Discipline.+Growth.)](https://git.io/typing-svg)
 
 <br/>
@@ -57,120 +53,93 @@
 
 ## Work that ships to *production.*
 
-<table>
+<br/>
+
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="50%" valign="top">
+<td width="33%" align="center" valign="top">
 
-### 🎨 Creative Compatibility Platform
-> *Full-stack creator matchmaking platform with a custom compatibility engine and real-time chat.*
-
-- Compatibility engine — interest + content + interaction signals
-- Real-time chat via WebSockets
-- Discovery feed with "Creators Similar to You"
-- Prisma ORM + PostgreSQL relational backend
-- Next.js App Router with server/client split
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🚓 E-FIR Portal
-> *Production-grade citizen-facing law enforcement platform with real analytics and role management.*
-
-- JWT-based stateless authentication + bcrypt
-- Role-Based Access — Citizen / Officer / Admin
-- Anonymous FIR filing with tracking IDs
-- Crime heatmaps via Leaflet + analytics via Chart.js
-- Real-time officer alerts with Socket.io
-
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+```
+┌─────────────────────────┐
+│  🎨  CREATOR MATCH      │
+│─────────────────────────│
+│                         │
+│  Matchmaking platform   │
+│  for creators — find    │
+│  your creative tribe.   │
+│                         │
+│  ⚡ Real-time chat      │
+│  🧠 Custom engine       │
+│  🔍 Discovery feed      │
+│  🗄️  PostgreSQL         │
+│                         │
+│  Next.js · Prisma · WS  │
+└─────────────────────────┘
+```
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" align="center" valign="top">
 
-### 🏥 ER Triage System
-> *Priority-driven emergency patient management with a custom heap implementation and live dashboard.*
-
-- Heap-based priority queue (custom DSA)
-- Real-time dashboard — live updates
-- Role system — Doctor / Receptionist
-- Full frontend + backend integration
-- Edge-case safe queue management
-
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Express](https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=white)
-![DSA](https://img.shields.io/badge/Custom%20DSA-Heap%20Logic-0071e3?style=flat-square)
+```
+┌─────────────────────────┐
+│  🚓  E-FIR PORTAL       │
+│─────────────────────────│
+│                         │
+│  Civic-tech platform    │
+│  for law enforcement    │
+│  & citizens.            │
+│                         │
+│  🔐 JWT + RBAC          │
+│  🕵️  Anonymous FIR      │
+│  🗺️  Crime heatmaps     │
+│  📡 Live alerts         │
+│                         │
+│  React · MongoDB · WS   │
+└─────────────────────────┘
+```
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" align="center" valign="top">
+
+```
+┌─────────────────────────┐
+│  🏥  ER TRIAGE          │
+│─────────────────────────│
+│                         │
+│  Emergency patient      │
+│  priority system with   │
+│  custom DSA at core.    │
+│                         │
+│  📊 Heap queue          │
+│  🔴 Live dashboard      │
+│  👨‍⚕️ Role-based         │
+│  🛡️  Edge-case safe     │
+│                         │
+│  React · Express · DSA  │
+└─────────────────────────┘
+```
+
 </td>
 </tr>
 </table>
+</div>
+
+<br/>
 
 ---
 
 ## 🛠️ Tech Stack
 
+<br/>
+
 <div align="center">
 
-<br/>
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=cpp,js,java,html,css&perline=5" />
-
-<br/><br/>
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&perline=5" />
-
-<br/><br/>
-
-**Backend & Runtime**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express&perline=5" />
-&nbsp;&nbsp;
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-
-<br/><br/>
-
-**Databases & ORM**
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma&perline=5" />
-
-<br/><br/>
-
-**Auth & Security**
-
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-&nbsp;
-![Bcrypt](https://img.shields.io/badge/Bcrypt-6c47ff?style=for-the-badge&logoColor=white)
-&nbsp;
-![RBAC](https://img.shields.io/badge/RBAC-0071e3?style=for-the-badge&logoColor=white)
-
-<br/><br/>
-
-**Tools & Workflow**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=5" />
-
-<br/>
+<img src="https://skillicons.dev/icons?i=cpp,js,java,html,css,react,nextjs,tailwind,nodejs,express,postgres,mongodb,mysql,prisma,git,github,vscode&perline=9&theme=light" />
 
 </div>
+
+<br/>
 
 ---
 
