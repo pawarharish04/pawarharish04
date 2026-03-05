@@ -1,53 +1,130 @@
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║          HARISH PAWAR · FULL STACK ENGINEER                  ║ -->
+<!-- ║          Built different. Ships differently.                  ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5f5f7,100:e8e8ed&height=190&section=header&text=Harish%20Pawar&fontSize=68&fontColor=1d1d1f&fontAlignY=42&desc=Full%20Stack%20Engineer%20%E2%80%94%20Building%20What%20Matters&descAlignY=63&descSize=16&animation=fadeIn" width="100%"/>
+```
+██╗  ██╗ █████╗ ██████╗ ██╗███████╗██╗  ██╗
+██║  ██║██╔══██╗██╔══██╗██║██╔════╝██║  ██║
+███████║███████║██████╔╝██║███████╗███████║
+██╔══██║██╔══██║██╔══██╗██║╚════██║██╔══██║
+██║  ██║██║  ██║██║  ██║██║███████║██║  ██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝
+                                    · PAWAR ·
+```
 
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=400&size=15&duration=2800&pause=700&color=0071E3&center=true&vCenter=true&width=640&lines=JWT+Auth+%7C+RBAC+%7C+Real-Time+Architecture;C%2B%2B+%7C+JavaScript+%7C+PostgreSQL+%7C+React;MongoDB+%7C+Node.js+%7C+Prisma+%7C+WebSockets;Consistency.+Discipline.+Growth.)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&width=560&height=80&lines=%24+whoami+%E2%86%92+Full+Stack+Engineer%2C+Pune+India;%24+cat+skills.txt+%E2%86%92+JWT+%7C+RBAC+%7C+WebSockets+%7C+DSA;%24+git+log+--oneline+%E2%86%92+shipping+what+matters%2C+every+day" alt="Typing SVG" />
 
 <br/>
 
-![Status](https://img.shields.io/badge/Open%20to%20Opportunities-0071e3?style=flat-square&labelColor=f5f5f7)
-&nbsp;
-![Location](https://img.shields.io/badge/Pune%2C%20India-1d1d1f?style=flat-square&labelColor=f5f5f7)
-&nbsp;
-![Focus](https://img.shields.io/badge/Full%20Stack%20Dev-6e6e73?style=flat-square&labelColor=f5f5f7)
+[![Open to Work](https://img.shields.io/badge/◉_OPEN_TO_WORK-00FF88?style=for-the-badge&labelColor=0d1117&color=00FF88)](mailto:pawarharish899@gmail.com)
+[![Location](https://img.shields.io/badge/📍_PUNE,_INDIA-0d1117?style=for-the-badge&labelColor=0d1117)](https://www.linkedin.com/in/harish-pawar-8732072b6)
 
 </div>
 
 ---
 
-## The person behind the code.
+<div align="center">
+
+## `> ./about_me.sh`
+
+</div>
+
+```javascript
+const harish = {
+  role        : "Full Stack Engineer",
+  location    : "Pune, India 🇮🇳",
+  languages   : ["C++", "JavaScript", "SQL", "Java"],
+  stack       : ["React", "Next.js", "Node.js", "PostgreSQL", "MongoDB"],
+  superpower  : "JWT Auth + RBAC + Real-Time Architecture",
+  philosophy  : "Consistency. Discipline. Growth.",
+  status      : "🟢 Available for full-time roles",
+  openTo      : () => ["Backend", "Full Stack", "Systems Design"],
+  funFact     : "I built a triage system with a custom heap. For fun."
+};
+```
+
+---
+
+## `> ls -la ./projects`
+
+<br/>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**Focus**
-> Full Stack Development — JWT auth, RBAC systems, real-time architecture, built to scale.
+### `[ 01 ]` 🎨 Creative Compatibility Platform
+
+```
+TYPE    → Full-Stack SaaS
+STACK   → Next.js · Prisma · PostgreSQL · WS
+STATUS  → ✅ Shipped
+```
+
+> Matchmaking for creators — not dating, but **craft.**
+
+- 🧠 Custom compatibility engine (interests + content + interaction signals)
+- ⚡ Real-time chat via WebSockets
+- 🔍 "Creators Similar to You" discovery feed
+- 🗄️ Prisma ORM · PostgreSQL relational backend
+- 🚀 Next.js App Router with server/client split
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**Languages**
-> C++ · JavaScript · SQL — Strong DSA foundations in C++, production code in JavaScript, relational modeling in SQL.
+### `[ 02 ]` 🚓 E-FIR Portal
+
+```
+TYPE    → Civic-Tech · Law Enforcement
+STACK   → React · Node · MongoDB · Socket.io
+STATUS  → ✅ Production-Grade
+```
+
+> Filing an FIR shouldn't require standing in a queue for 3 hours.
+
+- 🔐 JWT stateless auth + bcrypt password hashing
+- 👥 3-tier RBAC — Citizen / Officer / Admin
+- 🕵️ Anonymous FIR filing with tracking IDs
+- 🗺️ Crime heatmaps via Leaflet.js
+- 📡 Real-time officer alerts via Socket.io
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**Status**
-> Open to Work — Looking for full-time roles where I can ship things that matter.
+### `[ 03 ]` 🏥 ER Triage System
+
+```
+TYPE    → Healthcare · Real-Time
+STACK   → React · Express · Custom DSA
+STATUS  → ✅ Shipped
+```
+
+> Because in emergencies, the queue matters more than anything else.
+
+- 📊 Custom heap-based priority queue (built from scratch)
+- 🔴 Live dashboard with real-time patient updates
+- 👨‍⚕️ Role system — Doctor / Receptionist
+- 🛡️ Edge-case safe queue management
+- ⚙️ Full frontend + backend integration
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**Approach**
-> Consistency. Discipline. Growth. — Every day, a little better than yesterday.
+<br/><br/><br/>
+
+```
+╔═══════════════════════════╗
+║  NEXT PROJECT LOADING...  ║
+║  ██████████████░░░░  75%  ║
+║                           ║
+║  STAY TUNED.              ║
+╚═══════════════════════════╝
+```
 
 </td>
 </tr>
@@ -55,155 +132,78 @@
 
 ---
 
-## Work that ships to *production.*
+## `> cat tech_stack.json`
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎨 Creative Compatibility Platform
-> *Full-stack creator matchmaking platform with a custom compatibility engine and real-time chat.*
-
-- Compatibility engine — interest + content + interaction signals
-- Real-time chat via WebSockets
-- Discovery feed with "Creators Similar to You"
-- Prisma ORM + PostgreSQL relational backend
-- Next.js App Router with server/client split
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🚓 E-FIR Portal
-> *Production-grade citizen-facing law enforcement platform with real analytics and role management.*
-
-- JWT-based stateless authentication + bcrypt
-- Role-Based Access — Citizen / Officer / Admin
-- Anonymous FIR filing with tracking IDs
-- Crime heatmaps via Leaflet + analytics via Chart.js
-- Real-time officer alerts with Socket.io
-
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏥 ER Triage System
-> *Priority-driven emergency patient management with a custom heap implementation and live dashboard.*
-
-- Heap-based priority queue (custom DSA)
-- Real-time dashboard — live updates
-- Role system — Doctor / Receptionist
-- Full frontend + backend integration
-- Edge-case safe queue management
-
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Express](https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=white)
-![DSA](https://img.shields.io/badge/Custom%20DSA-Heap%20Logic-0071e3?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-</td>
-</tr>
-</table>
-
----
-
-## Tools I reach for every day.
+<br/>
 
 <div align="center">
 
-**Languages**
-
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend & Runtime**
-
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-
-**Databases & ORM**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-**Auth & Security**
-
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Bcrypt](https://img.shields.io/badge/Bcrypt-%23430098.svg?style=for-the-badge&logoColor=white)
-
-**Tools & Workflow**
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+| Layer | Technologies |
+|---|---|
+| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) |
+| **Auth / Security** | ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Bcrypt](https://img.shields.io/badge/Bcrypt-430098?style=flat-square&logoColor=white) ![RBAC](https://img.shields.io/badge/RBAC-FF375F?style=flat-square&logoColor=white) |
+| **Tooling** | ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white) |
 
 </div>
 
 ---
 
-## GitHub Stats
+## `> git log --stat`
+
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pawarharish04&show_icons=true&theme=default&hide_border=true&title_color=0071e3&icon_color=0071e3&text_color=1d1d1f&bg_color=ffffff&count_private=true" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawarharish04&layout=compact&theme=default&hide_border=true&title_color=0071e3&text_color=1d1d1f&bg_color=ffffff" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pawarharish04&show_icons=true&theme=transparent&hide_border=false&border_color=00FF8844&border_radius=8&title_color=00FF88&icon_color=00FF88&text_color=c9d1d9&bg_color=0d1117&count_private=true&ring_color=00FF88" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawarharish04&layout=compact&theme=transparent&hide_border=false&border_color=00FF8844&border_radius=8&title_color=00FF88&text_color=c9d1d9&bg_color=0d1117" height="165"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=pawarharish04&theme=default&hide_border=true&stroke=0071e3&ring=0071e3&fire=ff375f&currStreakLabel=1d1d1f&sideLabels=6e6e73&dates=6e6e73" width="580"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=pawarharish04&theme=dark&hide_border=false&border=00FF8844&stroke=00FF88&ring=00FF88&fire=FF375F&currStreakLabel=00FF88&sideLabels=888888&dates=666666&background=0D1117&border_radius=8" width="560"/>
 
 </div>
 
 ---
 
-## Let's build something *great.*
+## `> ./contact.sh --open`
 
-> Whether it's a job, a collab, or just a chat about code — my inbox is open.
+<br/>
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   Whether it's a job, a collab, or just a chat about code —     ║
+║   I'm always down to build something great together.             ║
+║                                                                  ║
+║   Ping me. Response time: usually same day.                      ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harish%20Pawar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harish-pawar-8732072b6)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harish-pawar-8732072b6)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-pawarharish04-1d1d1f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pawarharish04)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pawarharish04)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-pawarharish899%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawarharish899@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawarharish899@gmail.com)
 
-</div>
+<br/><br/>
 
----
+```
+> process.exit(0)
+  Consistency. Discipline. Growth.
+  — Harish Pawar, 2025
+```
 
-<div align="center">
+![Footer](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&section=footer)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8e8ed,100:f5f5f7&height=120&section=footer&text=Consistency.%20Discipline.%20Growth.&fontSize=18&fontColor=6e6e73&fontAlignY=65&animation=fadeIn" width="100%"/>
-
-<sub>2025 Harish Pawar · Full Stack Engineer · Pune, India</sub>
+<sub>⚡ Powered by caffeine, curiosity, and a stubborn refusal to write bad code.</sub>
 
 </div>
