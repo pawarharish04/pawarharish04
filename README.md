@@ -23,13 +23,13 @@
 <td width="50%">
 
 **Focus**
-> Full Stack Development — JWT auth, RBAC systems, real-time architecture, built to scale.
+> Full Stack Development — JWT auth,real-time architecture, built to scale.
 
 </td>
 <td width="50%">
 
 **Languages**
-> C++ · JavaScript · SQL — Strong DSA foundations in C++, production code in JavaScript, relational modeling in SQL.
+> C++ · JavaScript · SQL , production code in JavaScript, relational modeling in SQL.
 
 </td>
 </tr>
@@ -37,13 +37,13 @@
 <td width="50%">
 
 **Status**
-> Open to Work — Looking for full-time roles where I can ship things that matter.
+> Open to Work.
 
 </td>
 <td width="50%">
 
 **Approach**
-> Consistency. Discipline. Growth. — Every day, a little better than yesterday.
+> Consistency. Discipline. Growth. a little better than yesterday.
 
 </td>
 </tr>
@@ -51,7 +51,7 @@
 
 ---
 
-## Work that ships to *production.*
+
 
 <br/>
 
@@ -179,6 +179,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8e8ed,100:f5f5f7&height=120&section=footer&text=Consistency.%20Discipline.%20Growth.&fontSize=18&fontColor=6e6e73&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-<sub>2025 Harish Pawar · Full Stack Engineer · Pune, India</sub>
+<sub>2025 Harish Pawar · Full Stack Developer · Pune, India</sub>
 
 </div>
