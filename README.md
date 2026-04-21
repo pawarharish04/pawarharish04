@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5f5f7,100:e8e8ed&height=190&section=header&text=Harish%20Pawar&fontSize=68&fontColor=1d1d1f&fontAlignY=42&desc=Full%20Stack%20Developer%20%E2%80%94%20Building%20What%20Matters&descAlignY=63&descSize=16&animation=fadeIn" width="100%"/>
 
@@ -181,4 +181,4 @@
 
 <sub>2025 Harish Pawar · Full Stack Developer · Pune, India</sub>
 
-</div>
+</div> -->
